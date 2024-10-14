@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>images/about.png</file>
+        <file>images/loop-hover.png</file>
+        <file>images/min.png</file>
+        <file>images/musicplayer_ui.png</file>
+        <file>images/next-hover.png</file>
+        <file>images/pase-hover.png</file>
+        <file>images/pre-hover.png</file>
+        <file>images/quit.png</file>
+        <file>images/skin.png</file>
+    </qresource>
+</RCC>
