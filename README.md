@@ -2,7 +2,7 @@
 基于QT平台搭建可以搜索好友、添加好友、好友聊天、提供文件同步，备份及共享等服务的网络云存储平台。
 
 # 项目技术 
-C++、多线程、SQLite3数据库、TCP Socket网络编程、QT（5.4.12）
+C++、多线程、SQLite3数据库、TCP Socket网络编程、QT（5.14.2）
 
 # SQLite3安装教程
 https://blog.csdn.net/lj19990824/article/details/120966250
